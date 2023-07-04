@@ -1,0 +1,57 @@
+{
+  "people": [
+    {
+      "id": "5abccf9e-63fa-49b8-893c-ee1ce35c9f4d",
+      "name": "hello",
+      "username": "ola",
+      "email": "ola@teste.com",
+      "phone number": "9f8fb32d-6e86-4e30-a607-fcb0b6a000bf",
+      "city": "pt",
+      "country": "br",
+      "password": "abc",
+      "confirm pass": "abc"
+    },
+    {
+      "id": "c42b2502-d08e-47b8-8696-cd54eaf7ef1b",
+      "name": "test",
+      "username": "teste",
+      "email": "teste@test.com",
+      "phone number": "9f8fb32d-6e86-4e30-a607-fcb0b6a000bf",
+      "city": "pt",
+      "country": "br",
+      "password": "abc",
+      "confirm pass": "abc"
+    },
+    {
+      "id": "06461166-086d-4ff9-8cb0-32e42fd3149f",
+      "name": "xripiti",
+      "username": "xpto",
+      "email": "xpto@test.com",
+      "phone number": "9f8fb32d-6e86-4e30-a607-fcb0b6a000bf",
+      "city": "pt",
+      "country": "br",
+      "password": "abc",
+      "confirm pass": "abc"
+    }
+  ],
+  "items": [
+    {
+      "id": "154db25f-0c73-4461-9c41-6f379628773a",
+      "titulo": "Colar",
+      "marca": "Zara",
+      "categoria": "Colares",
+      "tamanho": "Grande",
+      "cor": "Verde",
+      "estado": "Novo"
+    },
+    {
+      "id": "1cb65db4-ef5a-4234-963c-9f3b8a557fe7",
+      "titulo": "",
+      "marca": "",
+      "categoria": "",
+      "tamanho": "",
+      "cor": "",
+      "estado": ""
+    }
+  ]
+}
