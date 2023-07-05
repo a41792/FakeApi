@@ -53,5 +53,43 @@
       "cor": "",
       "estado": ""
     }
+  ],
+  "orders": [
+    {
+      "orderNumber": 1,
+      "sellerName": "hello",
+      "items": [
+        {
+          "name": "Colar",
+          "price": 15.99,
+          "imageUrl": "https://example.com/images/colar.jpg"
+        }
+      ],
+      "orderDate": "2023-07-05T00:00:00Z"
+    },
+    {
+      "orderNumber": 2,
+      "sellerName": "test",
+      "items": [
+        {
+          "name": "Item 1",
+          "price": 25.99,
+          "imageUrl": "https://example.com/images/item1.jpg"
+        }
+      ],
+      "orderDate": "2023-07-05T00:00:00Z"
+    },
+    {
+      "orderNumber": 3,
+      "sellerName": "xripiti",
+      "items": [
+        {
+          "name": "Item 2",
+          "price": 35.99,
+          "imageUrl": "https://example.com/images/item2.jpg"
+        }
+      ],
+      "orderDate": "2023-07-05T00:00:00Z"
+    }
   ]
 }
