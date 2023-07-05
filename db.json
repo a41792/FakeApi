@@ -121,5 +121,17 @@
       ],
       "orderDate": "2023-07-05T00:00:00Z"
     }
+  ],
+  "addresses": [
+    {
+      "id": "a1",
+      "name": "Main Address",
+      "country": "Brazil",
+      "state": "Rio de Janeiro",
+      "city": "Rio de Janeiro",
+      "postalCode": "20031-170",
+      "address": "Praça Floriano, 55 - Centro",
+      "phoneNumber": "+5521999999999"
+    }
   ]
 }
