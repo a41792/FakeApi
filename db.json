@@ -42,7 +42,8 @@
       "categoria": "Colares",
       "tamanho": "Grande",
       "cor": "Verde",
-      "estado": "Novo"
+      "estado": "Novo",
+      "preco": "10€"
     },
     {
       "id": "1cb65db4-ef5a-4234-963c-9f3b8a557fe7",
@@ -51,7 +52,8 @@
       "categoria": "Sapatilhas",
       "tamanho": "37",
       "cor": "Branco",
-      "estado": "Bom"
+      "estado": "Bom", 
+      "preco": "120€"
     }
   ],
   "orders": [
@@ -132,6 +134,28 @@
       "postalCode": "20031-170",
       "address": "Praça Floriano, 55 - Centro",
       "phoneNumber": "+5521999999999"
+    }
+  ],
+  "bag": [
+    {
+      "id": "154db25f-0c73-4461-9c41-6f379628773a",
+      "titulo": "Colar",
+      "marca": "Zara",
+      "categoria": "Colares",
+      "tamanho": "Grande",
+      "cor": "Verde",
+      "estado": "Novo",
+      "preco": "10€"
+    },
+    {
+      "id": "1cb65db4-ef5a-4234-963c-9f3b8a557fe7",
+      "titulo": "Dunk",
+      "marca": "Nike",
+      "categoria": "Sapatilhas",
+      "tamanho": "37",
+      "cor": "Branco",
+      "estado": "Bom", 
+      "preco": "140€"
     }
   ]
 }
