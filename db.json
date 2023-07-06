@@ -54,7 +54,17 @@
       "cor": "Branco",
       "estado": "Bom", 
       "preco": "120"
-    }
+    },
+    {
+    "id": "3",
+    "titulo": "Bolsa",
+    "marca": "Vintage",
+    "categoria": "Acessórios",
+    "tamanho": "Pequena",
+    "cor": "Castanho",
+    "estado": "Novo",
+    "preco": "35.50"
+  }
   ],
   "orders": [
     {
