@@ -53,7 +53,7 @@
       "tamanho": "37",
       "cor": "Branco",
       "estado": "Bom", 
-      "preco": "120"
+      "preco": "130"
     },
     {
     "id": "1cb65db4-ef5a-4234-963c-9f3b8a557fe8",
@@ -155,7 +155,7 @@
       "tamanho": "Grande",
       "cor": "Verde",
       "estado": "Novo",
-      "preco": "10€"
+      "preco": "10"
     },
     {
       "id": "1cb65db4-ef5a-4234-963c-9f3b8a557fe7",
@@ -165,7 +165,7 @@
       "tamanho": "37",
       "cor": "Branco",
       "estado": "Bom", 
-      "preco": "140€"
+      "preco": "130"
     }
   ]
 }
