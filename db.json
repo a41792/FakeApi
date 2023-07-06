@@ -197,27 +197,5 @@
     "estado": "Novo",
     "preco": "35.50"
   }
-  ],
-   "favorites": [
-    {
-      "id": "154db25f-0c73-4461-9c41-6f379628773a",
-      "titulo": "Colar",
-      "marca": "Zara",
-      "categoria": "Colares",
-      "tamanho": "Grande",
-      "cor": "Verde",
-      "estado": "Novo",
-      "preco": "10"
-    },
-    {
-      "id": "1cb65db4-ef5a-4234-963c-9f3b8a557fe7",
-      "titulo": "Dunk",
-      "marca": "Nike",
-      "categoria": "Sapatilhas",
-      "tamanho": "37",
-      "cor": "Branco",
-      "estado": "Bom", 
-      "preco": "130"
-    }
   ]
 }
