@@ -54,17 +54,7 @@
       "cor": "Branco",
       "estado": "Bom", 
       "preco": "140€"
-    },
-    {
-      "id": "3",
-      "titulo": "Saia vintage",
-      "marca": "Zara",
-      "categoria": "Saia",
-      "tamanho": "S",
-      "cor": "Verde",
-      "estado": "Satisfatório",
-      "preco": "5€"
-    },
+    }
   ],
   "orders": [
     {
